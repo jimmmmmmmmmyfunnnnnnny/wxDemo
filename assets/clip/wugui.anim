@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wugui",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6637366a-9dd4-421e-8a79-6f371e7389bf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": -0.43333333333333335,
+      "func": "",
+      "params": []
+    }
+  ]
+}
