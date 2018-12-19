@@ -1,0 +1,518 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "texturepacker.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bottomBar": {
+      "__uuid__": "6d69b8ad-9bfc-473b-ad21-67378946f603"
+    },
+    "cannonMinus": {
+      "__uuid__": "47cc69b2-9b29-437c-bd7a-af717638d216"
+    },
+    "cannonMinusDown": {
+      "__uuid__": "66f65443-7ac6-4283-9744-81434fa5b6bd"
+    },
+    "cannonPlus": {
+      "__uuid__": "95055fce-c660-4d9b-b518-a5cec7db6127"
+    },
+    "cannonPlusDown": {
+      "__uuid__": "52980c73-be6c-43b2-b485-355b233307fa"
+    },
+    "energyBar": {
+      "__uuid__": "32d83dea-0ee7-4f8d-9eb6-cc0005153734"
+    },
+    "fish_bigred_dead_0": {
+      "__uuid__": "e1dbb744-6ea4-4b57-9a08-41e6486906a6"
+    },
+    "fish_bigred_dead_1": {
+      "__uuid__": "bddb1721-581a-4a82-8060-95c735ab13ee"
+    },
+    "fish_bigred_dead_2": {
+      "__uuid__": "a86f3c8f-03aa-4038-bfae-af9dcbfffa30"
+    },
+    "fish_bigred_dead_3": {
+      "__uuid__": "f34f0466-cf34-4f49-ad97-6423e20186b4"
+    },
+    "fish_bigred_run_0": {
+      "__uuid__": "c784d19c-1f7e-4bff-9b1e-6200f75eec5e"
+    },
+    "fish_bigred_run_1": {
+      "__uuid__": "9e75f93c-978f-4108-9090-83af2acc49bc"
+    },
+    "fish_bigred_run_2": {
+      "__uuid__": "a7eee54f-84c6-452e-a115-bd4d46d89970"
+    },
+    "fish_bigred_run_3": {
+      "__uuid__": "1e42d6b8-606a-4265-ad50-19f117ee8143"
+    },
+    "fish_denglongyu_dead_0": {
+      "__uuid__": "a0f46826-e5e5-4b97-a07e-61612b37e981"
+    },
+    "fish_denglongyu_dead_1": {
+      "__uuid__": "cc317dd7-25a5-4b1b-a7a5-4af274f9d3af"
+    },
+    "fish_denglongyu_dead_2": {
+      "__uuid__": "70fd3a57-3b2d-4e21-bb40-b4669d512c1f"
+    },
+    "fish_denglongyu_dead_3": {
+      "__uuid__": "3f242153-d5ce-4061-a11b-ed83dd840e24"
+    },
+    "fish_denglongyu_run_0": {
+      "__uuid__": "86153fa4-c1db-4477-925a-0fc50ebe3b38"
+    },
+    "fish_denglongyu_run_1": {
+      "__uuid__": "55fddd00-0507-4893-b1ea-6d45280a4b38"
+    },
+    "fish_denglongyu_run_2": {
+      "__uuid__": "95e07793-030c-4bb2-8793-f41c628e92b8"
+    },
+    "fish_denglongyu_run_3": {
+      "__uuid__": "dc47a912-fb31-49f4-a7b8-1902a6c276b0"
+    },
+    "fish_denglongyu_run_4": {
+      "__uuid__": "b00eca4a-ffeb-4830-ac32-1bcf27a34fa9"
+    },
+    "fish_denglongyu_run_5": {
+      "__uuid__": "addebb65-cfa9-4e42-93fc-92dd63701168"
+    },
+    "fish_denglongyu_run_6": {
+      "__uuid__": "510084ef-5168-4e2f-9bc8-e2008845f655"
+    },
+    "fish_denglongyu_run_7": {
+      "__uuid__": "e8931813-5986-4210-84df-5a4e4db5ed01"
+    },
+    "fish_fuyi_dead_0": {
+      "__uuid__": "7b621914-4449-40ed-8b31-80f921741139"
+    },
+    "fish_fuyi_dead_1": {
+      "__uuid__": "acac8629-195f-4680-92e4-3e1a105f98d6"
+    },
+    "fish_fuyi_dead_2": {
+      "__uuid__": "863e0068-9988-4590-992a-6e0267c8ae78"
+    },
+    "fish_fuyi_dead_3": {
+      "__uuid__": "9f7d6da8-6fcd-46d9-bc32-3a222e185e4a"
+    },
+    "fish_fuyi_run_0": {
+      "__uuid__": "34c3124d-f852-4ba1-82c0-5ecb6777377b"
+    },
+    "fish_fuyi_run_1": {
+      "__uuid__": "013148d3-7ea0-4456-995d-829e4fc07cde"
+    },
+    "fish_fuyi_run_2": {
+      "__uuid__": "1a06adeb-c192-455e-a9bc-b668a9001eda"
+    },
+    "fish_fuyi_run_3": {
+      "__uuid__": "b15629a0-0daf-4ce8-8bd3-89382e8f201d"
+    },
+    "fish_fuyi_run_4": {
+      "__uuid__": "464f1525-c9c0-4e60-ad04-d9e584c6d5d4"
+    },
+    "fish_fuyi_run_5": {
+      "__uuid__": "3484228a-f23d-4b1c-bb9f-6435374ebc55"
+    },
+    "fish_fuyi_run_6": {
+      "__uuid__": "51eece52-e057-4a80-9f5c-ca5251fdcda1"
+    },
+    "fish_fuyi_run_7": {
+      "__uuid__": "86c714cc-a718-459f-ac21-38c52185798e"
+    },
+    "fish_gui_dead_0": {
+      "__uuid__": "6637366a-9dd4-421e-8a79-6f371e7389bf"
+    },
+    "fish_gui_dead_1": {
+      "__uuid__": "75b48f92-bd96-4062-962f-56d08a6db828"
+    },
+    "fish_gui_dead_2": {
+      "__uuid__": "596b65ea-2f0b-4ab2-96c3-943e72b9f269"
+    },
+    "fish_gui_dead_3": {
+      "__uuid__": "5de1ec5c-60c3-475b-b92d-292768bfcf0e"
+    },
+    "fish_gui_run_0": {
+      "__uuid__": "5f10241e-a9b2-4783-832a-d5810c2248a1"
+    },
+    "fish_gui_run_1": {
+      "__uuid__": "29bf1044-313e-438b-9781-b4762227abe9"
+    },
+    "fish_gui_run_2": {
+      "__uuid__": "21e00e41-e288-4391-8ede-c83e56f7d691"
+    },
+    "fish_gui_run_3": {
+      "__uuid__": "f42b0518-b7e7-4f17-b28b-84677367f12a"
+    },
+    "fish_gui_run_4": {
+      "__uuid__": "31afbea5-9a98-451f-a43a-6ac2a50ddc1f"
+    },
+    "fish_gui_run_5": {
+      "__uuid__": "afcf0921-f566-43de-a5ef-6392a6e65200"
+    },
+    "fish_hailuoshuimu_dead_0": {
+      "__uuid__": "97dc3311-81ee-4308-8ed9-2d3ababb2042"
+    },
+    "fish_hailuoshuimu_dead_1": {
+      "__uuid__": "02c12337-c140-4d25-a4f5-0c40308f9e47"
+    },
+    "fish_hailuoshuimu_dead_2": {
+      "__uuid__": "65ab717d-b665-4503-bd01-6bea691c3c43"
+    },
+    "fish_hailuoshuimu_dead_3": {
+      "__uuid__": "ff06e83a-e3e6-4cd7-9a17-6487b6e612ca"
+    },
+    "fish_hailuoshuimu_run_0": {
+      "__uuid__": "09a17c24-71e0-45e6-b240-e03855029f20"
+    },
+    "fish_hailuoshuimu_run_1": {
+      "__uuid__": "5040f72a-73e8-4817-a14b-72bea079693a"
+    },
+    "fish_hailuoshuimu_run_2": {
+      "__uuid__": "c2e2cfff-5349-4e62-b8aa-3d7a7fd422f2"
+    },
+    "fish_hailuoshuimu_run_3": {
+      "__uuid__": "d39fd146-cd6e-4977-af7c-efd6904987e4"
+    },
+    "fish_hailuoshuimu_run_4": {
+      "__uuid__": "44ac810e-83f0-4075-a1c7-3f7b6095ce23"
+    },
+    "fish_hailuoshuimu_run_5": {
+      "__uuid__": "fdaa4905-7095-43e9-b929-d00fac0906df"
+    },
+    "fish_hailuoshuimu_run_6": {
+      "__uuid__": "19e754c8-8a23-44cb-8b0e-778d7b849612"
+    },
+    "fish_hailuoshuimu_run_7": {
+      "__uuid__": "9ee7315b-374a-4df6-954b-66367ff8925b"
+    },
+    "fish_hetun_dead_0": {
+      "__uuid__": "2fa93436-8c6a-4349-b19c-a0abd777128d"
+    },
+    "fish_hetun_dead_1": {
+      "__uuid__": "7f4ccf8a-83c6-49d5-8f6e-66a96f009513"
+    },
+    "fish_hetun_dead_2": {
+      "__uuid__": "030f017b-192c-4c56-b276-a38a3bbd44c2"
+    },
+    "fish_hetun_dead_3": {
+      "__uuid__": "df24472a-09d6-41e8-adee-4ee178394663"
+    },
+    "fish_hetun_run_0": {
+      "__uuid__": "513efc5c-f6ea-441e-b23c-3ad50b954b1f"
+    },
+    "fish_hetun_run_1": {
+      "__uuid__": "1291fd8a-9d58-4823-b7ce-71c37b9ea946"
+    },
+    "fish_hetun_run_2": {
+      "__uuid__": "92f0f639-16e9-4641-af0c-41cbe708da59"
+    },
+    "fish_hetun_run_3": {
+      "__uuid__": "abbb6300-0aff-4583-85b6-3f7045db78eb"
+    },
+    "fish_jinshayu_dead_0": {
+      "__uuid__": "b49d4ad9-0e40-459e-8449-2388b798e32c"
+    },
+    "fish_jinshayu_dead_1": {
+      "__uuid__": "aa09e8f0-bdff-46eb-9a1f-3becaa86dc88"
+    },
+    "fish_jinshayu_dead_2": {
+      "__uuid__": "e77ca9c5-767d-4ae9-9eb6-05c6989ce74d"
+    },
+    "fish_jinshayu_dead_3": {
+      "__uuid__": "cbbe29e5-30d7-42b8-859c-63eef2e4b06a"
+    },
+    "fish_jinshayu_run_0": {
+      "__uuid__": "a39f3da9-041e-40a8-8176-37ef9afa21af"
+    },
+    "fish_jinshayu_run_1": {
+      "__uuid__": "98cd07ed-fe7b-4bbc-8b36-1842ad542bac"
+    },
+    "fish_jinshayu_run_2": {
+      "__uuid__": "f3aa0655-9a9d-4087-a3ba-3692106bd0ff"
+    },
+    "fish_jinshayu_run_3": {
+      "__uuid__": "d7e50774-8280-4b4c-ba94-0518ced63159"
+    },
+    "fish_jinshayu_run_4": {
+      "__uuid__": "c9663fe5-b4ff-44a4-aa05-5ce0020f3096"
+    },
+    "fish_jinshayu_run_5": {
+      "__uuid__": "f0afcc73-8e4e-474e-90ae-5ddb56002ab2"
+    },
+    "fish_jinshayu_run_6": {
+      "__uuid__": "7c5c88fd-bd47-4645-98fd-780d49ecf7e7"
+    },
+    "fish_jinshayu_run_7": {
+      "__uuid__": "4fef4c44-3e81-45db-8b69-019d055b05dc"
+    },
+    "fish_red_dead_0": {
+      "__uuid__": "b8f563a0-6847-4e6a-8872-74d926c7fc56"
+    },
+    "fish_red_dead_1": {
+      "__uuid__": "822d72d2-0e3e-441b-ad4f-112f4b64fedd"
+    },
+    "fish_red_dead_2": {
+      "__uuid__": "c36ea4a0-1b2b-4eca-8571-51552ad1ef5b"
+    },
+    "fish_red_dead_3": {
+      "__uuid__": "d01bf9a0-0156-47e7-8bb2-337b947ecf0f"
+    },
+    "fish_red_run_0": {
+      "__uuid__": "179fc956-bf68-4710-9f0a-236eaa05f667"
+    },
+    "fish_red_run_1": {
+      "__uuid__": "989a69fb-e389-4601-b4f3-9f72c5a50745"
+    },
+    "fish_red_run_2": {
+      "__uuid__": "7f360cae-b3ab-4735-8767-dc98ecd3f151"
+    },
+    "fish_red_run_3": {
+      "__uuid__": "de6c74da-79ad-4bc9-9a06-5fcbc7d3da87"
+    },
+    "fish_shayu_dead_0": {
+      "__uuid__": "fc22d7de-0dad-406e-9581-60951d9ee29b"
+    },
+    "fish_shayu_dead_1": {
+      "__uuid__": "5e6ac1ef-1d68-48be-835f-9b73fc6d2e83"
+    },
+    "fish_shayu_dead_2": {
+      "__uuid__": "87fb6730-a61e-4a2a-ade3-e6b9688db176"
+    },
+    "fish_shayu_dead_3": {
+      "__uuid__": "13e7ff46-3d52-428c-97d8-e7bc8f35faed"
+    },
+    "fish_shayu_run_0": {
+      "__uuid__": "1ec05188-e216-4bb6-87f4-eb634e430507"
+    },
+    "fish_shayu_run_1": {
+      "__uuid__": "60c464ee-8b5e-4b58-97aa-cab0fcb695fa"
+    },
+    "fish_shayu_run_2": {
+      "__uuid__": "7e241fbf-18a6-48eb-911f-1e72b171e962"
+    },
+    "fish_shayu_run_3": {
+      "__uuid__": "bb2057c1-0907-41a4-b82b-cc0e22bbe34a"
+    },
+    "fish_shayu_run_4": {
+      "__uuid__": "27a37420-2ea4-4aa7-bcc2-0fd4feade041"
+    },
+    "fish_shayu_run_5": {
+      "__uuid__": "8af38ab5-948a-45ba-876c-460e7c092075"
+    },
+    "fish_shayu_run_6": {
+      "__uuid__": "9ea35f6f-de07-4b60-934e-02c70ad6af57"
+    },
+    "fish_shayu_run_7": {
+      "__uuid__": "17a5cf0b-2366-4edd-86d3-52fe9f71a3ae"
+    },
+    "fish_shuimu_dead_0": {
+      "__uuid__": "c464313b-200e-445e-974e-6b139b251b40"
+    },
+    "fish_shuimu_dead_1": {
+      "__uuid__": "e61c9452-5b4d-4f41-b201-0df557396f6a"
+    },
+    "fish_shuimu_dead_2": {
+      "__uuid__": "e6ab9b66-2304-424f-a330-754db76966e9"
+    },
+    "fish_shuimu_dead_3": {
+      "__uuid__": "11cbe8a9-d319-4e82-a5f9-473eca8b3395"
+    },
+    "fish_shuimu_run_0": {
+      "__uuid__": "07123946-faee-498b-8b5c-43ce15dea64c"
+    },
+    "fish_shuimu_run_1": {
+      "__uuid__": "5c78a292-aa9f-435a-90bd-a20c746c335f"
+    },
+    "fish_shuimu_run_2": {
+      "__uuid__": "4a788a91-4604-43f2-950e-e1a6072e645b"
+    },
+    "fish_shuimu_run_3": {
+      "__uuid__": "5745b0d5-e44b-40bd-93e1-16abcd3e37fc"
+    },
+    "fish_shuimu_run_4": {
+      "__uuid__": "a261be57-50c9-472b-bf9a-e8852984c7c1"
+    },
+    "fish_shuimu_run_5": {
+      "__uuid__": "0fdcafaa-5584-42d4-aad2-cc0bef77e8e1"
+    },
+    "fish_yellow_dead_0": {
+      "__uuid__": "ad3d57a8-f3a0-4aed-b876-c95141a8dac2"
+    },
+    "fish_yellow_dead_1": {
+      "__uuid__": "056739a4-916c-42cb-8d5b-d8198039df9b"
+    },
+    "fish_yellow_dead_2": {
+      "__uuid__": "6ec6ce25-5d2f-4024-aa38-19a4e3223831"
+    },
+    "fish_yellow_dead_3": {
+      "__uuid__": "486f416b-fd95-47b2-acc0-c76901507354"
+    },
+    "fish_yellow_run_0": {
+      "__uuid__": "e8084d28-5d3e-4f43-bf48-7d3791421f72"
+    },
+    "fish_yellow_run_1": {
+      "__uuid__": "9d1c5bf3-99e1-49a1-a167-7cc1c910bac0"
+    },
+    "fish_yellow_run_2": {
+      "__uuid__": "c6b157d1-5222-44c2-92c6-71a4bbbadce4"
+    },
+    "fish_yellow_run_3": {
+      "__uuid__": "e0f3aa48-e1a5-4f52-a3e6-e5c3c9d5d0e7"
+    },
+    "goldnum_0": {
+      "__uuid__": "7eb53c67-45dc-4f83-b793-838d16b8478e"
+    },
+    "goldnum_1": {
+      "__uuid__": "1b5789c7-e442-44ba-9079-3d91659b7514"
+    },
+    "goldnum_2": {
+      "__uuid__": "a3de2c6a-19c9-48e8-a6da-a73dea7d8ef1"
+    },
+    "goldnum_3": {
+      "__uuid__": "2dbf4f14-9a56-476e-b8af-d9c3be142c17"
+    },
+    "goldnum_4": {
+      "__uuid__": "3c0857ef-bc10-44ff-92e4-c6a109a64793"
+    },
+    "goldnum_5": {
+      "__uuid__": "7f37d898-18fa-44ee-803e-7b542d8282f6"
+    },
+    "goldnum_6": {
+      "__uuid__": "bfce5345-7e03-4029-a750-e0082d3dae9c"
+    },
+    "goldnum_7": {
+      "__uuid__": "a7d2bc55-881d-46ab-9018-47b38086b65e"
+    },
+    "goldnum_8": {
+      "__uuid__": "46fe573f-7ebc-442b-9584-5798bb010f73"
+    },
+    "goldnum_9": {
+      "__uuid__": "962d1915-dbc2-4cba-811a-f3e6dcd3bf20"
+    },
+    "net_level_1": {
+      "__uuid__": "9fb5c91c-3abd-4618-abff-ad91076454a0"
+    },
+    "net_level_2": {
+      "__uuid__": "50235942-7ddb-4ebe-b2f0-826cbd8c0e01"
+    },
+    "net_level_3": {
+      "__uuid__": "f484b1f2-d09e-4293-a078-e5b9352e3d11"
+    },
+    "net_level_4": {
+      "__uuid__": "40d34664-8573-4046-8873-b5976b72736b"
+    },
+    "net_level_5": {
+      "__uuid__": "e8e00c7f-9730-46c5-b8ff-df996bb4af02"
+    },
+    "net_level_6": {
+      "__uuid__": "d9f1ea28-2c74-43ab-a578-2eb036712f32"
+    },
+    "net_level_7": {
+      "__uuid__": "2409f4fe-72c1-4883-85dc-cc64e99546eb"
+    },
+    "weapon_level_1_0": {
+      "__uuid__": "7073aa26-ee1e-4049-be70-742e0c1ab326"
+    },
+    "weapon_level_1_1": {
+      "__uuid__": "41b408ad-f44f-418e-9457-336468d45292"
+    },
+    "weapon_level_1_2": {
+      "__uuid__": "6b630548-1170-43ac-9a98-6772bc7b4081"
+    },
+    "weapon_level_1_3": {
+      "__uuid__": "fee9e951-9b5d-4680-8d83-3403118f1440"
+    },
+    "weapon_level_1_4": {
+      "__uuid__": "033d070c-7289-4df3-9e28-6156cd4147e9"
+    },
+    "weapon_level_2_0": {
+      "__uuid__": "b2a85097-09c7-459c-a01f-44f7068c0db9"
+    },
+    "weapon_level_2_1": {
+      "__uuid__": "c3cbd74a-4b44-459d-8dcd-36f9c907319d"
+    },
+    "weapon_level_2_2": {
+      "__uuid__": "d92a7676-e190-4fdc-804f-99cb0f252e40"
+    },
+    "weapon_level_2_3": {
+      "__uuid__": "86370062-8d30-4021-8db6-e1d434ebdd9a"
+    },
+    "weapon_level_2_4": {
+      "__uuid__": "300a1751-1433-4fc2-9b17-feacd96159ab"
+    },
+    "weapon_level_3_0": {
+      "__uuid__": "3928984a-aca8-4d51-bbf1-7124889ce390"
+    },
+    "weapon_level_3_1": {
+      "__uuid__": "56be16c6-502b-49fb-8c54-793c77d47c39"
+    },
+    "weapon_level_3_2": {
+      "__uuid__": "8ccf189c-4613-4f79-8555-1f26fdcf7b5c"
+    },
+    "weapon_level_3_3": {
+      "__uuid__": "c7e8fad1-bcb3-4e57-b6fe-63e0f997c8dc"
+    },
+    "weapon_level_3_4": {
+      "__uuid__": "b96943d8-9801-4e6d-a0e0-014373e2684e"
+    },
+    "weapon_level_4_0": {
+      "__uuid__": "e38c8835-9bc6-4f9c-954c-f0d6dad5b848"
+    },
+    "weapon_level_4_1": {
+      "__uuid__": "755d0f43-4b60-45cd-8f47-574881c08ed1"
+    },
+    "weapon_level_4_2": {
+      "__uuid__": "0a2df089-9526-4917-8d7b-a703ad543c26"
+    },
+    "weapon_level_4_3": {
+      "__uuid__": "0ec934db-bbb0-47fe-8058-409090f5031d"
+    },
+    "weapon_level_4_4": {
+      "__uuid__": "733b035e-acd2-485d-bad2-dfa76c58f249"
+    },
+    "weapon_level_5_0": {
+      "__uuid__": "ee6aae05-4747-4c9e-82f5-807f6da26daa"
+    },
+    "weapon_level_5_1": {
+      "__uuid__": "fe4153c0-f9de-4a60-82a7-1caef6308324"
+    },
+    "weapon_level_5_2": {
+      "__uuid__": "81d5da39-cec1-4ee9-93a7-bb92cffb6807"
+    },
+    "weapon_level_5_3": {
+      "__uuid__": "dc5eac8d-8fa2-41d6-986b-aa7b18d9bc6d"
+    },
+    "weapon_level_5_4": {
+      "__uuid__": "068971c8-02ce-421a-8a78-1b74e8fda0f2"
+    },
+    "weapon_level_6_0": {
+      "__uuid__": "5c06677a-fef4-40cc-b077-0f32723e8917"
+    },
+    "weapon_level_6_1": {
+      "__uuid__": "fbfe79fe-af31-4194-ad0b-165937b9c387"
+    },
+    "weapon_level_6_2": {
+      "__uuid__": "2283302f-9532-48ad-b3d1-c5c8c7ecd51c"
+    },
+    "weapon_level_6_3": {
+      "__uuid__": "2e9a4d25-0c50-4b1d-bd3b-90a94e7c7707"
+    },
+    "weapon_level_6_4": {
+      "__uuid__": "a733cab3-12c6-440e-a151-3aef3ea664d9"
+    },
+    "weapon_level_7_0": {
+      "__uuid__": "b1c85dec-dae7-4532-8761-f6c45830074a"
+    },
+    "weapon_level_7_1": {
+      "__uuid__": "c4196eb4-be26-4174-836d-0be07879e124"
+    },
+    "weapon_level_7_2": {
+      "__uuid__": "410e2bc2-70e3-43dc-aa7e-22179e623a7c"
+    },
+    "weapon_level_7_3": {
+      "__uuid__": "8fb87dff-60e8-45fb-9cf8-179f495c6d47"
+    },
+    "weapon_level_7_4": {
+      "__uuid__": "b7452d2f-8a5f-4fba-ac7e-c1e994532797"
+    }
+  }
+}

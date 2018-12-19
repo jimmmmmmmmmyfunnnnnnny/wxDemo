@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gdxcx_tips_di",
+    "texture": "c19e0816-4539-419e-b9e5-95997b975ca7",
+    "atlas": "",
+    "rect": [
+      1,
+      8,
+      757,
+      250
+    ],
+    "offset": [
+      0.5,
+      -4
+    ],
+    "originalSize": [
+      758,
+      258
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

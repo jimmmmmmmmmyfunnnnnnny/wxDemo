@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wugui",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5f10241e-a9b2-4783-832a-d5810c2248a1"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "29bf1044-313e-438b-9781-b4762227abe9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "21e00e41-e288-4391-8ede-c83e56f7d691"
+            }
+          },
+          {
+            "frame": 0.7333333333333333,
+            "value": {
+              "__uuid__": "f42b0518-b7e7-4f17-b28b-84677367f12a"
+            }
+          },
+          {
+            "frame": 0.9333333333333333,
+            "value": {
+              "__uuid__": "31afbea5-9a98-451f-a43a-6ac2a50ddc1f"
+            }
+          },
+          {
+            "frame": 1.1333333333333333,
+            "value": {
+              "__uuid__": "afcf0921-f566-43de-a5ef-6392a6e65200"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": -0.8666666666666667,
+      "func": "",
+      "params": []
+    }
+  ]
+}

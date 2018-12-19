@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_gui_dead_0",
+    "texture": "4c332558-54ff-4878-a042-be82c612a9c5",
+    "atlas": "25fa9bb1-3d6c-4fb0-b951-a242efb340cf",
+    "rect": [
+      1451,
+      1096,
+      161,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
